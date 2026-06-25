@@ -1,0 +1,21 @@
+body {
+  font-family: Arial;
+  margin: 20px;
+}
+
+h1 {
+  color: blue;
+}
+
+input {
+  margin: 5px;
+  padding: 5px;
+}
+
+.error {
+  border: 2px solid red;
+}
+
+.ok {
+  border: 2px solid green;
+}
